@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>sounds/deniedCall.wav</file>
+        <file>sounds/outgoingCall.wav</file>
+        <file>sounds/incomingCall.wav</file>
+        <file>translations/EN.qm</file>
+    </qresource>
+</RCC>
